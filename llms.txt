@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rohy-wakhdany/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Rohy Wakhdany](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
